@@ -12,3 +12,5 @@ function init() {
 init();
 
 title.classN;
+
+title.classList.togg;
